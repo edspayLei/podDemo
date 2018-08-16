@@ -14,6 +14,7 @@
 		293F72AE2125780500595EC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 293F72AC2125780500595EC2 /* LaunchScreen.storyboard */; };
 		293F72B12125780500595EC2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 293F72B02125780500595EC2 /* main.m */; };
 		293F72BA2125799400595EC2 /* XGCountDown.m in Sources */ = {isa = PBXBuildFile; fileRef = 293F72B82125799400595EC2 /* XGCountDown.m */; };
+		293F72BC2125825B00595EC2 /* LXCountDown.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 293F72BB2125825B00595EC2 /* LXCountDown.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		293F72B02125780500595EC2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		293F72B82125799400595EC2 /* XGCountDown.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XGCountDown.m; sourceTree = "<group>"; };
 		293F72B92125799400595EC2 /* XGCountDown.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XGCountDown.h; sourceTree = "<group>"; };
+		293F72BB2125825B00595EC2 /* LXCountDown.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LXCountDown.podspec; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		293F72A02125780400595EC2 /* podDemo */ = {
 			isa = PBXGroup;
 			children = (
+				293F72BB2125825B00595EC2 /* LXCountDown.podspec */,
 				293F72B72125796300595EC2 /* LXCountDown */,
 				293F72A12125780400595EC2 /* AppDelegate.h */,
 				293F72A22125780400595EC2 /* AppDelegate.m */,
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				293F72BC2125825B00595EC2 /* LXCountDown.podspec in Resources */,
 				293F72AE2125780500595EC2 /* LaunchScreen.storyboard in Resources */,
 				293F72AB2125780500595EC2 /* Assets.xcassets in Resources */,
 				293F72A92125780400595EC2 /* Main.storyboard in Resources */,
